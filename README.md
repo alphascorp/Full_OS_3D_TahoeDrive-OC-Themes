@@ -57,6 +57,24 @@
   - Full_OS_3D_TahoeDrive_Jing_An :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_Jing_An.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_jing_an Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_Jing_An_BootView.jpg"></p>
    
+  - Full_OS_3D_TahoeDrive_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_SequoiaLight.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_SequoiaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_SequoiaLight_BootView.jpg"></p>
+   
+  - Full_OS_3D_TahoeDrive_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_SequoiaDark.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_SequoiaDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_SequoiaDark_BootView.jpg"></p>
+
+  - Full_OS_3D_TahoeDrive_SonomaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_SonomaLight.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_SonomaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_SonomaLight_BootView.jpg"></p>
+   
+  - Full_OS_3D_TahoeDrive_SonomaDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_SonomaDark.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_SonomaDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_SonomaDark_BootView.jpg"></p>
+   
+  - Full_OS_3D_TahoeDrive_VenturaLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_VenturaLight.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_VenturaLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/blob/main/Screenshots/Full_OS_3D_TahoeDrive_VenturaLight_BootView.jpg"></p>
+   
+  - Full_OS_3D_TahoeDrive_VenturaDark :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_VenturaDark.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_VenturaDark Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_VenturaDark_BootView.jpg"></p>
+   
 
 ## Credits:
 
