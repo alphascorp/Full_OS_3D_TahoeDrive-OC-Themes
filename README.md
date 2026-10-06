@@ -47,6 +47,9 @@
 ## Full_OS_3D_TahoeDrive themes view
 
 
+
+  - Full_OS_3D_TahoeDrive_WWDC25 :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_WWDC25.zip))
+<p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_WWDC25 Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_WWDC25_BootView.jpg"></p>
    
   - Full_OS_3D_TahoeDrive_TahoeLight :point_right: ([Download](https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Themes/Full_OS_3D_TahoeDrive_TahoeLight.zip))
 <p align="center"><img width="800" alt="Full_OS_3D_TahoeDrive_TahoeLight Screenshot" src="https://github.com/alphascorp/Full_OS_3D_TahoeDrive-OC-Themes/raw/main/Screenshots/Full_OS_3D_TahoeDrive_TahoeLight_BootView.jpg"></p>
